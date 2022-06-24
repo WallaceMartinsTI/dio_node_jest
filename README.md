@@ -17,4 +17,4 @@ Executa os testes automatizados.
 
 ### `npm run build`
 
-Executa o build da aplicação para uma simulação do modo produção.
+Executa o build da aplicação para uma simulação de modo produção.
